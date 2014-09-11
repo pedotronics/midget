@@ -1,4 +1,4 @@
 midget
 ======
 
-midget firmware
+midget firmware.
